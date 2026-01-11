@@ -43,7 +43,7 @@ h1{
   }
 
 body{
-      background: url(theme1.jpg) no-repeat; 
+      background: url(assets/images/theme1.jpg) no-repeat; 
       background-size: cover;
       background-attachment: fixed;
       font-family: 'Roboto'; 
